@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I specialize in leveraging Python and SQL to transform data into actionable insights, optimizing processes, and solving complex problems. My work spans various domains, including predictive modeling, data visualization, and system integration.
 - 🔭 I’m currently working on finding a job as a data scientist
 - 🌱 I’m currently specializing in data scientist, working in projects applying: python, sql, machine learning, prediction models, business intelligence, Statistical analysis, database management, etc.
 - 👯 I’m looking to collaborate on data scientist projects
@@ -9,7 +10,9 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+🔧  ## Skills & Technologies: 
+
+
 
 
 
