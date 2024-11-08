@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on data scientist projects
 - 💬 Ask me about my projects in github.
 - 📫 How to reach me: jorge.badallo@gmail.com, https://www.linkedin.com/in/jorge-badallo/
-- ⚡ Fun fact: I love: dogs, ecology, futbol, music, beaches, innovation, etc.
+- :alien: Fun fact: I love: dogs, ecology, futbol, music, beaches, innovation, etc.
 
