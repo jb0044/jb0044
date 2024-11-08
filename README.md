@@ -7,6 +7,9 @@
 - 📫 How to reach me: jorge.badallo@gmail.com, https://www.linkedin.com/in/jorge-badallo/
 - :alien: Fun fact: I love: dogs, ecology, futbol, music, beaches, innovation, etc.
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+
 #Im sharing my data scientist projects with you:
 
-Ask Me Anything !
+
