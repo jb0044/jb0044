@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I’m Jorge, a passionate Data Scientist and an Accounts payable analyst with expertise in data analysis, machine learning, sales and Management.
 
 I specialize in leveraging Python and SQL to transform data into actionable insights, optimizing processes, and solving complex problems. My work spans various domains, including predictive modeling, data visualization, and system integration.
+
+
 - 🔭 I’m currently working on finding a job as a data scientist
 - 🌱 I’m currently specializing in data scientist, working in projects applying: python, sql, machine learning, prediction models, business intelligence, Statistical analysis, database management, etc.
 - 👯 I’m looking to collaborate on data scientist projects
@@ -10,13 +12,32 @@ I specialize in leveraging Python and SQL to transform data into actionable insi
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 
-🔧  ## Skills & Technologies: 
+🔧  **Skills & Technologies**
+
+- Programming Languages: Python, SQL
+- Data Analysis & Machine Learning: scikit-learn, pandas, numpy
+- Visualization Tools: Matplotlib, Seaborn
+- SAP in ECC Production Mode
+- CRM System: Leadsales
+- Data Analysis & Machine Learning:
+- Python Libraries:
+        scikit-learn: Machine learning algorithms
+        pandas: Data manipulation and analysis
+        numpy: Numerical operations
+
+🌟 **Key Projects**  
+
+
+  
 
 
 
 
 
 
-#Im sharing my data scientist projects with you:
+
+
+
+
 
 
