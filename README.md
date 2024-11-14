@@ -38,6 +38,18 @@ I specialize in leveraging Python and SQL to transform data into actionable insi
 **Linkedin:** https://www.linkedin.com/in/jorge-badallo/
 **Github:** https://github.com/jb0044
 
+📈 **GitHub Stats**
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jb0044&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jb0044&layout=compact&theme=radical)
+
+
+
+
+
+
+
 
 
 
