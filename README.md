@@ -27,6 +27,14 @@ I specialize in leveraging Python and SQL to transform data into actionable insi
 
 🌟 **Key Projects**  
 
+- [Aprendizaje atomático en negocios](https://github.com/jb0044/Aprendizaje-autom-tico-en-negocios)
+- [Aprendizaje supervisado](https://github.com/jb0044/Aprendizaje-supervisado)
+- [Métodos numéricos](https://github.com/jb0044/M-todos-num-ricos)
+- [Series temporales](https://github.com/jb0044/Series-temporales)
+- [álgebra lineal Python](https://github.com/jb0044/-lgebra-lineal)
+  
+
+
 
   
 
