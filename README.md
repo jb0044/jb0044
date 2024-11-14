@@ -33,6 +33,11 @@ I specialize in leveraging Python and SQL to transform data into actionable insi
 - [Series temporales](https://github.com/jb0044/Series-temporales)
 - [álgebra lineal Python](https://github.com/jb0044/-lgebra-lineal)
   
+📬 **Contact Me:**
+**E-mail:** jorge.badallo@gmail.com
+**Linkedin:** https://www.linkedin.com/in/jorge-badallo/
+**Github:** https://github.com/jb0044
+
 
 
 
